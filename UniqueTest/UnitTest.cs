@@ -9,7 +9,6 @@ namespace UniqueTest
     public class UnitTest
     {
         //HashSet
-
         [TestMethod]
         public void IsUniqueSymbolsInStringHashSet_ABCDEF_ReturnedTrue()
         {
